@@ -39,8 +39,8 @@ done
 
 #menu
 echo -e '''
-1]. Get target from specific \e[1;32m@username
-2]. Get target from specific \e[1;32m#hashtag
+1]. Get target from specific \e[1;31m@username\e[1;37m
+2]. Get target from specific \e[1;31m#hashtag\e[1;37m
 3]. Crack from your target list
 '''
 
