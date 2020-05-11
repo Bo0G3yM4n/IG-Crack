@@ -1,5 +1,5 @@
 # IG-Crack
-Tools for Mass Crackers
+Tools for Mass Crackers Instagram
 
 # How To Use?
 $ pkg upgrade && pkg update 
@@ -20,3 +20,4 @@ $ tor
 
 # Contact Me !
 Whatsapp : +6285692644855
+have fun, guys :")
