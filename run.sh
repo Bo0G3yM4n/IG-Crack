@@ -16,10 +16,10 @@ limit=100
 
 #banner
 clear
-echo   "           ▼▼▼▼▼           "
-echo   "  ()•INSTAGRAM CRACKER•()  "
-echo   "           ▲▲▲▲▲           "  
 echo   ""
+echo   "           ▼▼▼▼▼           "
+echo   "  ()•INSTAGRAM CRACKER•()     "
+echo   "           ▲▲▲▲▲           "  
 echo   ""
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
 echo   "         Bo0G3yM4n          "   
