@@ -19,5 +19,5 @@ $ pkg install tor -y
 $ tor
 
 # Contact Me !
-Whatsapp : +6285692644855
+Instagram : @alfredofrndz0x
 have fun, guys :")
